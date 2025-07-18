@@ -26,8 +26,12 @@ This FiveM script uses GetGamePool native, which is a FiveM Native, this native 
 
 ## 🚀 Installation
 
+Install [ox_lib](https://github.com/overextended/ox_lib)
+
 1. Extract the `rose-scanner` folder into your server's `resources` directory.
-2. Add the following line to your `server.cfg`:
+2. Extract the `ox_lib` folder into your server's `resources` directory.
+3. Add the following line to your `server.cfg`:
 
 ```cfg
+ensure ox_lib
 ensure rose-scanner
