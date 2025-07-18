@@ -35,3 +35,9 @@ Install [ox_lib](https://github.com/overextended/ox_lib)
 ```cfg
 ensure ox_lib
 ensure rose-scanner
+```
+
+## 🌐 Socials
+
+[Discord](https://discord.gg/UY8Z3fRFZ5)
+[Github](https://github.com/Loreose)
